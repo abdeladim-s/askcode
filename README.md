@@ -2,6 +2,11 @@
 
 Ask questions to your code base using the power of LLMs.
 
+<br/>
+<p align="center">
+  <img src="./docs/demo.gif">
+</p>
+
 # Installation
 
 ```shell
