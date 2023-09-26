@@ -5,7 +5,7 @@ Ask questions to your code base using the power of LLMs.
 # Installation
 
 ```shell
-pip install https://github.com/abdeladim-s/askcode
+pip install git+https://github.com/abdeladim-s/askcode
 ```
 
 # Usage
